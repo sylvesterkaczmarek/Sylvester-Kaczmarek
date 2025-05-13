@@ -35,7 +35,7 @@ For a comprehensive overview of my professional journey, including my resume, ed
 
 ### Academic Roles
 
-I serve as a professor of Cryptography and Secure Communications, and Secure Software Development for both the MSc in Enterprise Cybersecurity and BSc in Modern Computer Science programs in Italy, and as an associate professor of Systems Engineering, Cybersecurity, and AI/ML for Space Systems & Infrastructure in Florida, US.
+I serve as a professor of Cryptography and Secure Communications, Secure Software Development, and Parallel and Distributed Computing for both the MSc in Enterprise Cybersecurity and BSc in Modern Computer Science programs in Italy, and as an associate professor of Systems Engineering, Cybersecurity, and AI/ML for Space Systems & Infrastructure in Florida, US.
 
 ### Relevant Publications
 
