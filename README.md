@@ -65,6 +65,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 22. [As threats to space-based infrastructure grow, cybersecurity for satellites is a growing challenge](https://www.business-reporter.co.uk/technology/cybersecurity-for-satellites-is-a-growing-challenge-as-threats-to-space-based-infrastructure-grow)
 23. [DDoS Attacks Pose Increasing Threat to Satellite and Ground Operators](https://www.kratosdefense.com/constellations/articles/ddos-attacks-pose-increasing-threat-to-satellite-and-ground-operators)
 24. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
+25. [Quantum Cyberattacks: A Future or Current Concern for Satellites?](https://www.kratosdefense.com/constellations/articles/quantum-cyberattacks-a-future-or-current-concern-for-satellites)
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
