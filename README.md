@@ -51,7 +51,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 8. [Cybersecurity for Space Assets: Focusing on SmallSats and CubeSats](https://sylvesterkaczmarek.com/blog/cybersecurity-for-space-assets-focusing-on-smallsats-and-cubesats/) (Personal Blog)
 9. [Exploring Global Space Programs: Insights from the CIA's](https://www.linkedin.com/pulse/exploring-global-space-programs-insights-from-cias-kaczmarek) (LinkedIn Article)
 10. [Space Cyber Hacking](https://hakin9.org/space-cyber-hacking/) (Hakin9 Magazine)
-11. [What are robots thinking?](https://www.thersa.org/comment/2022/10/what-are-robots-thinking) (the Royal Society)
+11. [What are robots thinking?](https://www.thersa.org/articles/comment/what-are-robots-thinking/) (the Royal Society)
 12. [The Evolution of Space Industry Cybersecurity: Embracing Zero Trust](https://www.linkedin.com/pulse/evolution-space-industry-cybersecurity-embracing-zero-kaczmarek/) (LinkedIn Article)
 13. [Cybersecurity Measures in Modern Space Exploration](https://pentestmag.com/cybersecurity-measures-in-modern-space-exploration/) (PenTest Magazine)
 14. [Cybersecure Lunar Rovers, Safeguarding Moon Exploration](https://www.flipsnack.com/688D7FBBDC9/i2-november-2023/full-view.html), co-authored with William Ferguson (Interstellar Integrity (i2), Pages 4-9)
