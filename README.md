@@ -31,7 +31,15 @@ In an era where AI governs data, robots are becoming our co-workers, and space i
 For a comprehensive overview of my professional journey, including my resume, education, and certifications, please visit:
 
 * [LinkedIn Profile](https://www.linkedin.com/in/sylvesterkaczmarek/)
-* [Personal Website](http://www.sylvesterkaczmarek.com)
+* [Personal Website](https://www.sylvesterkaczmarek.com)
+* [Sylvester's Frontier (Publication)](https://frontier.sylvesterkaczmarek.com/)
+
+### Featured Publications & Media
+
+I am featured on the cover of the Autumn 2025 issue of ROOM Space Journal of Asgardia, a prominent international publication for space industry and policy leaders. 
+My special report inside, "Cyber safety in Earth orbit," analyzes the complex web of risks associated with AI-driven spacecraft and ground systems, from adversarial attacks to the possibility of hostile control.
+
+![ROOM Space Journal Cover - Autumn 2025](assets/room-space-journal-autumn-2025-cover-sylvester-kaczmarek.jpeg)
 
 ### Academic Roles
 
@@ -67,6 +75,8 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 24. [DDoS Attacks Pose Increasing Threat to Satellite and Ground Operators](https://www.kratosdefense.com/constellations/articles/ddos-attacks-pose-increasing-threat-to-satellite-and-ground-operators) (Kratos Defense)
 25. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
 26. [Quantum Cyberattacks: A Future or Current Concern for Satellites?](https://www.kratosdefense.com/constellations/articles/quantum-cyberattacks-a-future-or-current-concern-for-satellites) (Kratos Defense)
+27. [AI cybersecurity - challenges in space](https://room.eu.com/article/ai-cybersecurity-challenges-in-space) (ROOM Space Journal of Asgardia)
+
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
