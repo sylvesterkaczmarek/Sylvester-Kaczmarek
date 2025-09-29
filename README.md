@@ -40,7 +40,7 @@ I am featured on the cover of the Autumn 2025 issue of ROOM Space Journal of Asg
 My special report inside, "Cyber safety in Earth orbit," analyzes the complex web of risks associated with AI-driven spacecraft and ground systems, from adversarial attacks to the possibility of hostile control.
 
 <p align="center">
-  <img src="room-space-journal-autumn-2025-cover-sylvester-kaczmarek.jpeg" alt="ROOM Space Journal Cover - Autumn 2025" width="600"/>
+  <img src="assets/room-space-journal-autumn-2025-cover-sylvester-kaczmarek.jpeg" alt="ROOM Space Journal Cover - Autumn 2025" width="600"/>
 </p>
 
 ### Academic Roles
