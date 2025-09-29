@@ -39,9 +39,9 @@ For a comprehensive overview of my professional journey, including my resume, ed
 I am featured on the cover of the Autumn 2025 issue of ROOM Space Journal of Asgardia, a prominent international publication for space industry and policy leaders. 
 My special report inside, "Cyber safety in Earth orbit," analyzes the complex web of risks associated with AI-driven spacecraft and ground systems, from adversarial attacks to the possibility of hostile control.
 
-<img src="room-space-journal-autumn-2025-cover-sylvester-kaczmarek.jpeg" alt="ROOM Space Journal Cover - Autumn 2025" width="500"/>
-
-![ROOM Space Journal Cover - Autumn 2025](room-space-journal-autumn-2025-cover-sylvester-kaczmarek.jpeg)
+<p align="center">
+  <img src="room-space-journal-autumn-2025-cover-sylvester-kaczmarek.jpeg" alt="ROOM Space Journal Cover - Autumn 2025" width="600"/>
+</p>
 
 ### Academic Roles
 
