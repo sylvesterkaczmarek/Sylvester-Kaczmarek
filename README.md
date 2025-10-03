@@ -78,7 +78,7 @@ In line with my ongoing contributions to the field, I have authored and co-autho
 25. [The Evolving Cybersecurity Landscape in Space: A New Frontier for National Security](https://www.afcea.org/signal-media/cyber-edge/evolving-cybersecurity-landscape-space-new-frontier-national-security) (Armed Forces Communications & Electronics Association International (AFCEA))
 26. [Quantum Cyberattacks: A Future or Current Concern for Satellites?](https://www.kratosdefense.com/constellations/articles/quantum-cyberattacks-a-future-or-current-concern-for-satellites) (Kratos Defense)
 27. [AI cybersecurity - challenges in space](https://room.eu.com/article/ai-cybersecurity-challenges-in-space) (ROOM Space Journal of Asgardia)
-
+28. ['Alien: Earth' predicts a transhumanist future, but could we ever digitize human consciousness? We asked the experts (exclusive)](https://www.space.com/entertainment/space-movies-shows/alien-earth-predicts-a-transhumanist-future-but-could-we-ever-digitize-human-consciousness-we-asked-the-experts-exclusive) (Space.com)
 
 For public publications, subscribe to my [LinkedIn Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7025990944319524864). In-depth articles are available upon request.
 
